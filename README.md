@@ -1,3 +1,9 @@
+# CodeFlix
+
+![image](https://github.com/micaellimedeiros/codeflix-client/assets/54600663/610410c7-62b4-4835-a35f-cdc55aa3020d)
+
+<hr />
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
