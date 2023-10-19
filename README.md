@@ -1,6 +1,9 @@
 # CodeFlix
 
-![image](https://github.com/micaellimedeiros/codeflix-client/assets/54600663/610410c7-62b4-4835-a35f-cdc55aa3020d)
+<div align="center">
+  <img src="https://github.com/micaellimedeiros/codeflix-client/assets/54600663/80461a77-d71f-4500-97b0-9efbfe321264" width="50%" />
+  <img src="https://github.com/micaellimedeiros/codeflix-client/assets/54600663/610410c7-62b4-4835-a35f-cdc55aa3020d" width="50%" />
+</div>
 
 <hr />
 
