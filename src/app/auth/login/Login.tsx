@@ -1,8 +1,7 @@
 'use client';
-
 import React from 'react';
 
-import { InputField } from '../InputField';
+import { InputField } from '@/app/components/InputField';
 
 export default function LoginForm() {
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
